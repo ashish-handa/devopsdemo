@@ -1,0 +1,6 @@
+ting
+test
+file3
+:w
+:x
+
